@@ -29,3 +29,9 @@ build/
 
 ### VS Code ###
 .vscode/
+.gitsecret/keys/random_seed
+!*.secret
+/.blackbox/pubring.gpg~
+/.blackbox/pubring.kbx~
+/.blackbox/secring.gpg
+/src/main/resources/application.yml
