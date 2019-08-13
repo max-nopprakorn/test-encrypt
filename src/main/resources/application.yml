@@ -1,0 +1,6 @@
+jasypt:
+  encryptor:
+    algorithm: BELLO
+    password: iworks
+test:
+  encrypt: ENC(max)
