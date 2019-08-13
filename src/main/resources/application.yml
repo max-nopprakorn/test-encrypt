@@ -4,3 +4,4 @@
 #     password: iworks
 test:
   encrypt: '{cipher}max'
+heck: '{cipher} max'
