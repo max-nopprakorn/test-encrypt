@@ -1,7 +1,0 @@
-# jasypt:
-#   encryptor:
-#     algorithm: BELLO
-#     password: iworks
-test:
-  encrypt: '{cipher}max'
-heck: '{cipher} max'
